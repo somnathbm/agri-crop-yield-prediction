@@ -1,0 +1,5 @@
+outs:
+- md5: b65e25b42007d76035d2b6d2c325461f
+  size: 741
+  hash: md5
+  path: state_soil_data.csv
