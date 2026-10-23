@@ -1,0 +1,4 @@
+[core]
+    remote = cropyield
+['remote "cropyield"']
+    url = s3://agri-crop-yield-prediction-691685274845-us-east-1-an

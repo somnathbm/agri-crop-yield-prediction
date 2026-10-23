@@ -1,0 +1,5 @@
+outs:
+- md5: 92b4a2a420722b63bef36ad6bc518e2c
+  size: 93408015
+  hash: md5
+  path: crop_yield.csv
